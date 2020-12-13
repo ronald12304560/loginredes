@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1089174851012",
+    "project_id": "login-b3f1d",
+    "storage_bucket": "login-b3f1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089174851012:android:e3d95abd39f11ec5116891",
+        "android_client_info": {
+          "package_name": "com.example.logeo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089174851012-a715h7ko1mbmh7c95tn3h96tv3osn2ve.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.logeo",
+            "certificate_hash": "7783e484e97cdac8d93ede82847f1805836e9374"
+          }
+        },
+        {
+          "client_id": "1089174851012-u3qinh9v1b357l7gbffqu0j9h43j61l0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOWQYLrDPeSQEQsabXj1yJgpt_dT1pHVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089174851012-u3qinh9v1b357l7gbffqu0j9h43j61l0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
